@@ -37,7 +37,7 @@ project-folder/
 Password to the Seccrets Page is given below -
 Code4Fun!
 
-#📸 Screenshots
+# 📸 Screenshots
 **Home Page**  
 ![Home Page](Screenshots/HomePage.png)
 
