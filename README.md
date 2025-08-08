@@ -22,7 +22,6 @@ Tools: Git Bash for version control and deployment
 ```
 project-folder/
 │── public/
-│   ├── styles.css          # CSS styles
 │   ├── index.html          # Home page
 │   ├── secrets.html        # Secrets page
 │── Screenshots/
@@ -37,7 +36,7 @@ project-folder/
 Password to the Seccrets Page is given below -
 Code4Fun!
 
-# 📸 Screenshots
+## 📸 Screenshots
 **Home Page**  
 ![Home Page](Screenshots/HomePage.png)
 
