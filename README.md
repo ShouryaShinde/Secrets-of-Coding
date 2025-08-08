@@ -48,4 +48,4 @@ This project is open-source and available under the MIT License.
 
 ## ✨ Author
 Developed by Shourya Shinde 🚀  
-[GitHub](https://github.com/ShouryaShinde) | [LinkedIn](www.linkedin.com/in/shourya-shinde-1a5425330)
+[GitHub](https://github.com/ShouryaShinde) | [LinkedIn](https://www.linkedin.com/in/shourya-shinde-1a5425330/)
