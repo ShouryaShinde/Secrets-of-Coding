@@ -2,7 +2,7 @@
 🔐 Secrets Page Website
 A simple and secure web application built using HTML, CSS, Node.js, and Express.js that allows users to view hidden "secrets" after entering the correct password.
 
-##📌 Features
+## 📌 Features
 🎨 Frontend: HTML 
 
 ⚡ Backend: Node.js with Express for handling routes and server logic
@@ -11,14 +11,14 @@ A simple and secure web application built using HTML, CSS, Node.js, and Express.
 
 📂 Static Files: Served using Express middleware
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 Frontend: HTML
 
 Backend: Node.js, Express.js
 
 Tools: Git Bash for version control and deployment
 
-##📂 Project Structure
+## 📂 Project Structure
 ```
 project-folder/
 │── public/
@@ -33,7 +33,7 @@ project-folder/
 │── README.md               # Project documentation
 
 ```
-##🔑 Password to access Secrets Page :
+## 🔑 Password to access Secrets Page :
 Password to the Seccrets Page is given below -
 Code4Fun!
 
@@ -45,7 +45,7 @@ Code4Fun!
 ![Secrets Page](Screenshots/SecretsPage.png)
 
 
-##📜 License
+## 📜 License
 This project is open-source and available under the MIT License.
 
 ## ✨ Author
